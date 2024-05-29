@@ -398,3 +398,5 @@ FodyWeavers.xsd
 *.sln.iml
 src/ch.interdiscount.crawler.pdp/20240130-URL-Matching-ID-MSP-PDPs-DE.csv
 .DS_Store
+
+Drop/
